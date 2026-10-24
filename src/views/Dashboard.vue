@@ -2,7 +2,7 @@
   <div class="iot-dashboard">
     <!-- 头部标题 -->
     <div class="header">
-      <h1>工业物联网设备监控大屏</h1>
+      <h1>工业物联网设备监控大屏1</h1>
       <div class="time">{{ currentTime }}</div>
     </div>
 
