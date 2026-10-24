@@ -20,7 +20,7 @@
 - 代码规范：Composition API `<script setup>`
 
 ## 🚀 在线演示
-🔗 Demo地址：https://xxx.vercel.app （等你部署完成替换链接）
+🔗 Demo地址：https://iot-dashboard-92j.pages.dev
 
 ## 💻 本地运行
 ### 环境要求
